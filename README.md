@@ -16,8 +16,8 @@ A Streamlit application for Retrieval-Augmented Generation (RAG) with document u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/document-rag-assistant.git
-cd document-rag-assistant
+git clone https://github.com/shatzzzy/rag-app.git
+cd rag-app
 ```
 
 2. Install the required dependencies:
